@@ -7,6 +7,7 @@ Write-ups of the problem sets I completed in **EECS 127: Optimization Models in 
 | # | Topic | Focus | Key tools |
 |---|---|---|---|
 | 4 | [Linear & Integer Programming, Sparse Recovery](04-linear-integer-programming-and-sparse-recovery/) | LP/IP modeling, transportation problem, compressed sensing | MATLAB, CVX |
+| 6 | [Duality, Matrix Completion & Newton's Method](06-duality-matrix-completion-and-newtons-method/) | Lagrange duality, nuclear-norm recovery, second-order methods | Python, CVXPY, NumPy, Matplotlib |
 
 ## Skills and tools
 Convex optimization modeling, linear and integer programming, duality and KKT conditions, regularized regression (L1, Lasso), compressed sensing, low-rank matrix completion, Newton's method with line search, Monte Carlo experiments, linear algebra, MATLAB, CVX, Python, CVXPY, NumPy, Matplotlib.
