@@ -7,6 +7,7 @@ Write-ups of the problem sets I completed in **EECS 127: Optimization Models in 
 | # | Topic | Focus | Key tools |
 |---|---|---|---|
 | 1 | [Linear Systems & Robust Regression](01-linear-systems-and-robust-regression/) | Least squares vs. least absolute deviations, minimum-energy control | MATLAB, CVX |
+| 3 | [Convex Optimization & LP Geometry](03-convex-optimization-and-lp-geometry/) | Existence of solutions, coercivity, LP vertices by simulation | MATLAB, CVX |
 | 4 | [Linear & Integer Programming, Sparse Recovery](04-linear-integer-programming-and-sparse-recovery/) | LP/IP modeling, transportation problem, compressed sensing | MATLAB, CVX |
 | 5 | [KKT Conditions & Power-Grid Attack Detection](05-kkt-conditions-and-grid-attack-detection/) | KKT, maximum likelihood, Lasso | Python, CVXPY, NumPy |
 | 6 | [Duality, Matrix Completion & Newton's Method](06-duality-matrix-completion-and-newtons-method/) | Lagrange duality, nuclear-norm recovery, second-order methods | Python, CVXPY, NumPy, Matplotlib |
