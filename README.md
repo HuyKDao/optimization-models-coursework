@@ -1,12 +1,13 @@
 # Optimization Models Coursework (UC Berkeley EECS 127)
 
-Write-ups of the problem sets I completed in **EECS 127: Optimization Models in Engineering** at UC Berkeley (Fall 2024). The course covers how to turn real decisions into optimization problems, prove when they can be solved reliably, and solve them numerically. Each set mixed handwritten proofs with coding experiments in **CVX (MATLAB)** and **CVXPY (Python)**.
+Write-ups of six problem sets I completed in **EECS 127: Optimization Models in Engineering** at UC Berkeley (Fall 2024). The course covers how to turn real decisions into optimization problems, prove when they can be solved reliably, and solve them numerically. Each set mixed handwritten proofs with coding experiments in **CVX (MATLAB)** and **CVXPY (Python)**.
 
 > **About the code:** the course's problem sets are copyrighted and may not be shared, so each folder explains the topics, what I built and what I learned instead of posting problems or solutions. I'm happy to walk through my work in an interview.
 
 | # | Topic | Focus | Key tools |
 |---|---|---|---|
 | 1 | [Linear Systems & Robust Regression](01-linear-systems-and-robust-regression/) | Least squares vs. least absolute deviations, minimum-energy control | MATLAB, CVX |
+| 2 | [Convex Sets & Functions](02-convex-sets-and-functions/) | Convexity proofs, separating hyperplanes | MATLAB, CVX |
 | 3 | [Convex Optimization & LP Geometry](03-convex-optimization-and-lp-geometry/) | Existence of solutions, coercivity, LP vertices by simulation | MATLAB, CVX |
 | 4 | [Linear & Integer Programming, Sparse Recovery](04-linear-integer-programming-and-sparse-recovery/) | LP/IP modeling, transportation problem, compressed sensing | MATLAB, CVX |
 | 5 | [KKT Conditions & Power-Grid Attack Detection](05-kkt-conditions-and-grid-attack-detection/) | KKT, maximum likelihood, Lasso | Python, CVXPY, NumPy |
